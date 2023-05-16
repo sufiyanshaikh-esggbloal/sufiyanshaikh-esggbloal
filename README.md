@@ -15,7 +15,7 @@
 </div>
 
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m **MERN STACK** Developer
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/suFi7867](https://github.com/suFi7867)
