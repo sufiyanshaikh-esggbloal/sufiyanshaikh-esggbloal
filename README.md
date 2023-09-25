@@ -2,17 +2,6 @@
 
 <img src="https://i.ibb.co/QbD3ZNF/sufissdasd.jpg" alt="babel" width="1210px" />
 
-<div align="left" width="150">
-  ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
-</div>
-
-
-
-<div align="left">
-   <a href="#">
-    <img src="https://komarev.com/ghpvc/?username=NazmusSayad&style=flat-square" alt="suFi7867" />
-   </a>
-</div>
 
 
 - 🌱 I’m **MERN STACK** Developer
